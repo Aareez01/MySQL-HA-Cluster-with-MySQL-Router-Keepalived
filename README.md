@@ -69,7 +69,8 @@ Because system default repositories may not contain:
 * Compatible version with your MySQL cluster
 
 So you add official MySQL repo first. This ensures version compatibility with your cluster.
-
+```bash https://dev.mysql.com/downloads/repo/apt/
+```
 
 On all database servers:
 
