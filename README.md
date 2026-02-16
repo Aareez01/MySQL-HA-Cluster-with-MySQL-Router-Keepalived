@@ -1,4 +1,4 @@
-**How to Deploy MySQL InnoDB Cluster (3-Node HA Setup with MySQL Router & Keepalived)**
+# How to Deploy MySQL InnoDB Cluster (3-Node HA Setup with MySQL Router & Keepalived)
 
 ---
 
