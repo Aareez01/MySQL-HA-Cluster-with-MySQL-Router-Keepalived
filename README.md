@@ -127,7 +127,7 @@ mysql -u root -e "FLUSH PRIVILEGES;"
 **Only Reset Master on fresh installations.**
 
 ```bash
-mysql -u root -e "RESET MASTER;"
+mysql -u root -e "RESET BINARY LOGS AND GTIDS;"
 ```
 
 Verify hostname:
